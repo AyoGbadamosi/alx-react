@@ -1,1 +1,1 @@
-Tasks for the Project 0x06. React Immutable.
+## 0x06. React Immutable
